@@ -4,6 +4,8 @@ Embedded Software Engineer based in Eindhoven, Netherlands.
 
 I work on embedded software, Linux-based systems, FPGA/RTL design, Python test automation, and hardware/software co-design. My goal is to build reliable low-level systems that are understandable, testable, and well documented.
 
+🌐 Portfolio: https://rafaelvieira99.github.io
+
 ## Focus Areas
 
 - Embedded C/C++
