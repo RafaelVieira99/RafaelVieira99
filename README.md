@@ -24,5 +24,5 @@ I build and debug embedded systems across software, Linux, FPGA/RTL, test automa
 
 ## Contact
 
-- LinkedIn: ...
+- LinkedIn: https://www.linkedin.com/in/rafaelvieira99
 - Location: Eindhoven / Limburg / Benelux region
